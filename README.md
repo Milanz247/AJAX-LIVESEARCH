@@ -4,9 +4,8 @@
 <br><br>
 
 ![Screenshot from 2023-08-15 21-12-00](https://github.com/Msenarathna47/AJAX-LIVESEARCH/assets/117444289/b28ea8cb-b66b-4e36-b601-50337d27ca98)
-<br>
 <br><br>
-<p dir="auto">Code Part for Search :</p>
+<p dir="auto">Code Part for suggest :</p>
 <div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate">
 <code>   
     <script>
